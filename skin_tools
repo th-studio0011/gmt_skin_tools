@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": true,
+    "interval": 20
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "fan"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  },
+  "recommendation_apps": [
+    {
+      "app_name": "New Skin Tools",
+      "package_name": "com.bigbro.free.skin.tools",
+      "short_des": "We have just added a new pack:Skin VIP V35-V36 \nProvides many Elite Pass Bundles: Red Criminal, Blue Criminal.... \nTry it free now !.",
+      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/2Ys0iQqRgAwXmDssK7secpg9RyTBjWMSszvCVjLeHV5kF9uegh8R-LWcdrFJckVUYII"
+    }
+  ]
+}
