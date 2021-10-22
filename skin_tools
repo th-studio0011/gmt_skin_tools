@@ -2,13 +2,161 @@
   "version": "1.0",
   "ads_config": {
     "enable": true,
-    "interval": 20
+    "interval": 30
   },
   "ad_units": {
     "full_splash": {
       "units": [
         {
-          "ad_network": "fan"
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "open_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/7416240491"
+        }
+      ]
+    },
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/5931768434"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_app_feature": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/3476995486"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_detail": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/7053278416"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/6861706723"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_download": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/1609380048"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_reset": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/4043971699"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_apply_skin": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/5911587135"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_reset": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/7600073329"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_mod_more": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/1034664974"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/2156174950"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_common": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/9371841068"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_start": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/7025358250"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "reward_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/8655308150"
         },
         {
           "ad_network": "startio"
