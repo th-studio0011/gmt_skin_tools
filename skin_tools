@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 30
   },
   "ad_units": {
