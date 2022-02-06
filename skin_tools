@@ -167,7 +167,14 @@
     }
   },
   "recommendation_apps": [
-     {
+    {
+      "app_name": "FF Skin Tools Pro max",
+      "package_name": "com.hadu.ff.skin.tools.pro.free",
+      "short_des": "This new application provides grenade, emote, gloo, gun and many other skins",
+      "icon": "https://play-lh.googleusercontent.com/2XVFVwTuCRTlPu1q1eOkUk6NoGuoW9sJCTK0lqD13FvAljvKhTW6HFX_alFNuCeOnFg=s360-rw",
+      "cover": "https://play-lh.googleusercontent.com/_zEDVsb6ynJRRE9WBSrMitVQUlishuYABva0380zlBdXU_Lc_jdelT-kEORKz0CTKs4"
+    },
+    {
       "app_name": "FF Tools",
       "package_name": "com.gmt.ff.tool.free",
       "short_des": "Application for pro player, allows you to fix lag and detect enemy position.",
