@@ -166,6 +166,13 @@
       ]
     }
   },
+  "force_update": {
+    "app_name": "Skin Tools - Mod Skin & Enemy Detection",
+    "package_name": "com.hadu.ff.skin.tools.pro.free",
+    "short_des": "This application is no longer supported, Please install new application for continuous using skin tools",
+    "icon": "https://play-lh.googleusercontent.com/2XVFVwTuCRTlPu1q1eOkUk6NoGuoW9sJCTK0lqD13FvAljvKhTW6HFX_alFNuCeOnFg=s180-rw",
+    "cover": "https://play-lh.googleusercontent.com/_zEDVsb6ynJRRE9WBSrMitVQUlishuYABva0380zlBdXU_Lc_jdelT-kEORKz0CTKs4"
+  },
   "recommendation_apps": [
     {
       "app_name": "FF Skin Tools Pro max",
